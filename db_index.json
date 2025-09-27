@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "63abcf4c-faa6-48fc-9aee-6e0114d12f15",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u0939\u0928\u0941\u092E\u093E\u0928 \u092D\u091C\u0928"
+  },
+  {
+    "Id": "6326a04e-5f1c-4394-9bc0-50f8fbe41a03",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u0930\u093E\u092E \u092D\u091C\u0928 "
+  },
+  {
+    "Id": "25319319-86e5-4b1b-b605-726ed5291a5a",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u0928\u0935\u0926\u0941\u0930\u094D\u0917\u093E \u092D\u091C\u0928 "
+  },
+  {
+    "Id": "6066abd6-f56f-4464-bec7-866bb3748b68",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u092E\u0939\u093E\u0926\u0947\u0935 \u092D\u091C\u0928 "
+  },
+  {
+    "Id": "685f0d04-0a09-4891-9686-f0a2218ab55f",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u0924\u0941\u0932\u0938\u0940 \u092E\u093E\u0924\u093E \u092D\u091C\u0928 "
+  },
+  {
+    "Id": "f0a19017-9561-4d4a-833e-848063c5c5da",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u0935\u093F\u0937\u094D\u0923\u0941 \u092D\u0917\u0935\u093E\u0928 \u092D\u091C\u0928 "
+  },
+  {
+    "Id": "81779abc-b0bd-4162-b82d-39a9b250121e",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u092E\u0939\u093E\u0932\u0937\u094D\u092E\u0940 \u092D\u091C\u0928 "
+  },
+  {
+    "Id": "35be1a23-e938-4191-a8b3-d475c3a26fc2",
+    "DisplayOrder": 0,
+    "IsVisible": true,
+    "Subject": "\u0915\u0938\u0930\u0924 "
+  }
+]
